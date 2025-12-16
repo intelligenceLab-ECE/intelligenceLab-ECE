@@ -7,9 +7,9 @@ Nos étudiants se transforment en pionniers de l’IA générative, prêts à re
 
 Ensemble, nous construisons un avenir où l’IA joue un rôle central pour un impact sociétal positif.  
 
-[**Site Web**](https://www.ece.fr/intelligence-lab/)
-[LinkedIn](https://www.linkedin.com/company/intelligence-lab-by-ece)
-[Hugging Face 🤗](https://www.linkedin.com/company/intelligence-lab-by-ece)
+- [Site Web](https://www.ece.fr/intelligence-lab/)
+- [LinkedIn](https://www.linkedin.com/company/intelligence-lab-by-ece)
+- [Hugging Face 🤗](https://www.linkedin.com/company/intelligence-lab-by-ece)
 
 ## Ecosystème collaboratif et partenariats stratégiques
 

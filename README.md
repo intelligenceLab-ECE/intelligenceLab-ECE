@@ -76,7 +76,7 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | IA StarCraft 2 | Un VLM + RL qui est capable de jouer à StarCraft 2                    | [Thibault GAREL](https://github.com/Thibault-GAREL) | [StarCraft2 AI](https://github.com/Thibault-GAREL/AI-StarCraft2-VLM-RL) |
 | IA quadrupède         | Une IA qui apprend par renforcement à marcher avec un quadrupède (2D) | [Thibault GAREL](https://github.com/Thibault-GAREL) | [Walking AI](https://github.com/Thibault-GAREL/test_box2D_pygame)       |
 | LightSeek-OCR         | Implémentation légère et exploration de l'architecture de DeepSeek-OCR | [Alfred de Vulpian](https://github.com/Alfred0404) | [LightSeek-OCR](https://github.com/Alfred0404/lightseek-ocr)|
-| Graphs NN         | Etude et exploration des architectures de graphes | [Axel Bröns](https://github.com/axelbrons) | [Graphs-nn](https://github.com/axelbrons/graphs-nn)|
+| Graphs NN         | Développer une architecture de message passing GNN pour optimiser la prédiction de liens | [Axel Bröns](https://github.com/axelbrons) | [Graphs-nn](https://github.com/axelbrons/graphs-nn)|
 
 
 

@@ -7,8 +7,8 @@ Nos étudiants se transforment en pionniers de l’IA générative, prêts à re
 
 Ensemble, nous construisons un avenir où l’IA joue un rôle central pour un impact sociétal positif.  
 
-- [Site Web](https://www.ece.fr/intelligence-lab/)
-- [LinkedIn](https://www.linkedin.com/company/intelligence-lab-by-ece)
+- [Site Web 🌐](https://www.ece.fr/intelligence-lab/)
+- [LinkedIn 💼](https://www.linkedin.com/company/intelligence-lab-by-ece)
 - [Hugging Face 🤗](https://www.linkedin.com/company/intelligence-lab-by-ece)
 
 ## Ecosystème collaboratif et partenariats stratégiques
@@ -62,4 +62,22 @@ L’Intelligence Lab en association avec La Fabrik , l’incubateur du groupe OM
 Nous offrons aux entrepreneurs et innovateurs un accès privilégié à des ressources essentielles, y compris des jeux de données exclusifs et un mentorat personnalisé.
 
 Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimulant la créativité et l’innovation au sein de notre communauté dynamique.
+
+## Projet fait par les makers
+#### Projet de groupe
+| Projet de groupe                                                                                                                 | Explication                                                                                      | Makers                                                                                                                                                                                                                      | Lien                                                                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **[Hackaton avec le CND](https://www.linkedin.com/feed/update/urn:li:activity:7397600929350336512/) (Place : 3ème / 15 écoles)** | Une IA capable de trouver les anomalies et les pannes dans les logs réseaux de l'armée française | [Thibault GAREL](https://github.com/Thibault-GAREL) <br> [Alfred de Vulpian](https://github.com/Alfred0404) <br> [Axel Bröns](https://github.com/axelbrons) <br> [Robin Quériaux](https://github.com/Rqbln) <br> [Ziyad Amzil]() | [Code Frontend](https://github.com/Rqbln/dirisi25-hackathon-frontend) <br><br> [Code Backend](https://github.com/Rqbln/dirisi25-hackathon-backend) |
+
+
+#### Projet Piscine
+| Projet                | Explication                                                           | Maker                                         | Lien                                                                    |
+|-----------------------|-----------------------------------------------------------------------|-----------------------|-------------------------------------------------------------------------|
+| IA expert StarCraft 2 | Un VLM + RL qui est capable de jouer à StarCraft 2                    | [Thibault GAREL](https://github.com/Thibault-GAREL) | [StarCraft2 AI](https://github.com/Thibault-GAREL/AI-StarCraft2-VLM-RL) |
+| IA quadrupède         | Une IA qui apprend par renforcement à marcher avec un quadrupède (2D) | [Thibault GAREL](https://github.com/Thibault-GAREL) | [Walking AI](https://github.com/Thibault-GAREL/test_box2D_pygame)       |
+| LightSeek-OCR         | Implémentation légère et exploration de l'architecture de DeepSeek-OCR | [Alfred de Vulpian](https://github.com/Alfred0404) | [LightSeek-OCR](https://github.com/Alfred0404/lightseek-ocr)            |
+
+
+
+
   

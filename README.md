@@ -81,6 +81,7 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | AIGuardX         | Une IA qui peut distinguer les images réelles aux images IA toute catégorie confondu (catégories = visages, animaux, objets etc) en utilisant un CNN + ViT| [Fadi AL MIKDAD](https://github.com/Fadiiiiiiiiiiiii) | [AIGuardX](https://github.com/Fadiiiiiiiiiiiii/AIGuardX)|
 | Stable-BeaT        | Réglage fin SAO pour la génération de rythmes modernes | [Gabriel Guiet-Dupré](https://github.com/Gab404) | [Stable-BeaT](https://github.com/Gab404/Stable-BeaT)|
 | IA Create IA        | Un système intelligent qui transforme automatiquement vos données en modèles de machine learning performants, en utilisant des LLM pour orchestrer le processus| [Alexis GAUTHRON](https://github.com/AlexisGauthron) | [IA Create IA](https://github.com/AlexisGauthron/IA_create_IA_cate)|
+| Prompt détection        | Développement d’une IA pour analyser des CVs pour une attaque prompt injection | [Grant CANTY](https://github.com/GrantCanty) | [Prompt détection](https://github.com/GrantCanty/prompt_detection)|
 
 
 

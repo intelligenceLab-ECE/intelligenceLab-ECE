@@ -77,6 +77,7 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | IA quadrupède         | Une IA qui apprend par renforcement à marcher avec un quadrupède (2D) | [Thibault GAREL](https://github.com/Thibault-GAREL) | [Walking AI](https://github.com/Thibault-GAREL/test_box2D_pygame)       |
 | LightSeek-OCR         | Implémentation légère et exploration de l'architecture de DeepSeek-OCR | [Alfred de Vulpian](https://github.com/Alfred0404) | [LightSeek-OCR](https://github.com/Alfred0404/lightseek-ocr)|
 | Graphs NN         | Développer une architecture de message passing GNN pour optimiser la prédiction de liens | [Axel Bröns](https://github.com/axelbrons) | [Graphs-nn](https://github.com/axelbrons/graphs-nn)|
+| XVision         | Développement d'une architecture VLM multimodal combinant vision par ordinateur, données satellitaires et LLM, conçu pour l'agriculture de précision | [Djebril LAOUEDJ](https://github.com/djbrl-laouedj) <br><br> [Redha IBBOU](https://github.com/KYX6) | [XVision](https://github.com/KYX6/XVision)|
 
 
 

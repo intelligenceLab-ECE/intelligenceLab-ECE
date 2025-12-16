@@ -78,7 +78,9 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | LightSeek-OCR         | Implémentation légère et exploration de l'architecture de DeepSeek-OCR | [Alfred de Vulpian](https://github.com/Alfred0404) | [LightSeek-OCR](https://github.com/Alfred0404/lightseek-ocr)|
 | Graphs NN         | Développer une architecture de message passing GNN pour optimiser la prédiction de liens | [Axel Bröns](https://github.com/axelbrons) | [Graphs-nn](https://github.com/axelbrons/graphs-nn)|
 | XVision         | Développement d'une architecture VLM multimodal combinant vision par ordinateur, données satellitaires et LLM, conçu pour l'agriculture de précision | [Djebril LAOUEDJ](https://github.com/djbrl-laouedj) <br><br> [Redha IBBOU](https://github.com/KYX6) | [XVision](https://github.com/KYX6/XVision)|
-| AIGuardX         | Une IA qui peut distinguer les images réelles aux images IA toute catégorie confondu (catégories = visage, animaux, objets etc) en utilisant un CNN + ViT| [Fadi AL MIKDAD](https://github.com/Fadiiiiiiiiiiiii) | [AIGuardX](https://github.com/Fadiiiiiiiiiiiii/AIGuardX)|
+| AIGuardX         | Une IA qui peut distinguer les images réelles aux images IA toute catégorie confondu (catégories = visages, animaux, objets etc) en utilisant un CNN + ViT| [Fadi AL MIKDAD](https://github.com/Fadiiiiiiiiiiiii) | [AIGuardX](https://github.com/Fadiiiiiiiiiiiii/AIGuardX)|
+| Stable-BeaT        | Réglage fin SAO pour la génération de rythmes modernes | [Gabriel Guiet-Dupré](https://github.com/Gab404) | [Stable-BeaT](https://github.com/Gab404/Stable-BeaT)|
+
 
 
 

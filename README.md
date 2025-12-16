@@ -80,6 +80,7 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | XVision         | Développement d'une architecture VLM multimodal combinant vision par ordinateur, données satellitaires et LLM, conçu pour l'agriculture de précision | [Djebril LAOUEDJ](https://github.com/djbrl-laouedj) <br><br> [Redha IBBOU](https://github.com/KYX6) | [XVision](https://github.com/KYX6/XVision)|
 | AIGuardX         | Une IA qui peut distinguer les images réelles aux images IA toute catégorie confondu (catégories = visages, animaux, objets etc) en utilisant un CNN + ViT| [Fadi AL MIKDAD](https://github.com/Fadiiiiiiiiiiiii) | [AIGuardX](https://github.com/Fadiiiiiiiiiiiii/AIGuardX)|
 | Stable-BeaT        | Réglage fin SAO pour la génération de rythmes modernes | [Gabriel Guiet-Dupré](https://github.com/Gab404) | [Stable-BeaT](https://github.com/Gab404/Stable-BeaT)|
+| IA Create IA        | Un système intelligent qui transforme automatiquement vos données en modèles de machine learning performants, en utilisant des LLM pour orchestrer le processus| [Alexis GAUTHRON](https://github.com/AlexisGauthron) | [IA Create IA](https://github.com/AlexisGauthron/IA_create_IA_cate)|
 
 
 

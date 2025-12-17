@@ -82,6 +82,20 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | Stable-BeaT        | Réglage fin SAO pour la génération de rythmes modernes | [Gabriel Guiet-Dupré](https://github.com/Gab404) | [Stable-BeaT](https://github.com/Gab404/Stable-BeaT)|
 | IA Create IA        | Un système intelligent qui transforme automatiquement vos données en modèles de machine learning performants, en utilisant des LLM pour orchestrer le processus| [Alexis GAUTHRON](https://github.com/AlexisGauthron) | [IA Create IA](https://github.com/AlexisGauthron/IA_create_IA_cate)|
 | Prompt détection        | Développement d’une IA pour analyser des CVs pour une attaque prompt injection | [Grant CANTY](https://github.com/GrantCanty) | [Prompt détection](https://github.com/GrantCanty/prompt_detection)|
+| Fine-tuned Whisper          | Version fine-tuned de whisper-large-v3-turbo en français                                                                                                        | [Mathis LACOMBE](https://huggingface.co/Mathos34400)                                                | [Fine-tuned Whisper](https://huggingface.co/Mathos34400/whisper-large-v3-turbo-french-v6) |
+| Tuteur IA                   | Assistant vocal multi-agents qui aide les élèves à apprendre les mathématiques, la physique et l'anglais grâce à des conversations naturelles                   | [Romain MALLET](https://github.com/Romainmlt123)                                                    | [Tuteur IA](https://github.com/Romainmlt123/Piscine-Intelligence-Lab)            |
+| Magistral Math Fine-tunning | Pipeline complet de réglage fin pour Qwen3-1.7B sur des ensembles de données mathématiques synthétiques de haute qualité                   | [Hadri ........](https://github.com/Romainmlt123)                                                   | [Magistral Math Fine-tunning](https://github.com/HAD653/Magistral-Math-FineTune)                     |
+
+<!--
+Personne que je n'ai pas réussi à contacter / sans réponse :
+  Alexis L
+  Jules MORTREUX
+  Youri
+  Laziz
+  Ikram Jm
+  Arakeri10
+  Alan924
+-->
 
 
 

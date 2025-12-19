@@ -84,21 +84,19 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | Prompt détection        | Développement d’une IA pour analyser des CVs pour une attaque prompt injection | [Grant CANTY](https://github.com/GrantCanty) | [Prompt détection](https://github.com/GrantCanty/prompt_detection)|
 | Fine-tuned Whisper          | Version fine-tuned de whisper-large-v3-turbo en français                                                                                                        | [Mathis LACOMBE](https://huggingface.co/Mathos34400)                                                | [Fine-tuned Whisper](https://huggingface.co/Mathos34400/whisper-large-v3-turbo-french-v6) |
 | Tuteur IA                   | Assistant vocal multi-agents qui aide les élèves à apprendre les mathématiques, la physique et l'anglais grâce à des conversations naturelles                   | [Romain MALLET](https://github.com/Romainmlt123)                                                    | [Tuteur IA](https://github.com/Romainmlt123/Piscine-Intelligence-Lab)            |
-| Magistral Math Fine-tunning | Pipeline complet de réglage fin pour Qwen3-1.7B sur des ensembles de données mathématiques synthétiques de haute qualité                   | [Hadri](https://github.com/Romainmlt123)                                                   | [Magistral Math Fine-tunning](https://github.com/HAD653/Magistral-Math-FineTune)                     |
+| Magistral Math Fine-tunning | Un modèle Qwen3-1.7B spécialisé en raisonnement mathématique, fine-tuné en BF16 avec des solutions pas à pas (chain-of-thought)                                 | [Hadrien PATIN](https://github.com/HAD653)                                                         | [Magistral Math Fine-tunning](https://github.com/HAD653/Magistral-Math-FineTune) + [Modèle](https://huggingface.co/HAD653/qwen3-1.7b-magistral-math) |
+| Trust RAG                   | RAG qui privilégie la fiabilité des sources plutôt que la similarité textuelle pour fournir des réponses financières vérifiées et explicables                   | [Ikram Jemlaoui](https://github.com/IkramJemlaoui)                                                   | [Trust RAG](https://github.com/IkramJemlaoui/trustRAG)                                                                                |
+
 
 <!--
 Personne que je n'ai pas réussi à contacter / sans réponse :
-  Alexis L
+  Alexis L ==> à relancer
   Jules MORTREUX
   Youri
   Laziz
-  Ikram Jm
   Arakeri10
   Alan924
 -->
-
-
-
 
 
   

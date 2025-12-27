@@ -86,12 +86,12 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | Tuteur IA                   | Assistant vocal multi-agents qui aide les élèves à apprendre les mathématiques, la physique et l'anglais grâce à des conversations naturelles                   | [Romain MALLET](https://github.com/Romainmlt123)                                                    | [Tuteur IA](https://github.com/Romainmlt123/Piscine-Intelligence-Lab)            |
 | Magistral Math Fine-tunning | Un modèle Qwen3-1.7B spécialisé en raisonnement mathématique, fine-tuné en BF16 avec des solutions pas à pas (chain-of-thought)                                 | [Hadrien PATIN](https://github.com/HAD653)                                                         | [Magistral Math Fine-tunning](https://github.com/HAD653/Magistral-Math-FineTune) + [Modèle](https://huggingface.co/HAD653/qwen3-1.7b-magistral-math) |
 | Trust RAG                   | RAG qui privilégie la fiabilité des sources plutôt que la similarité textuelle pour fournir des réponses financières vérifiées et explicables                   | [Ikram Jemlaoui](https://github.com/IkramJemlaoui)                                                   | [Trust RAG](https://github.com/IkramJemlaoui/trustRAG)                                                                                |
+| BrickAI                   |BrickAI analyse la faisabilité d'investissement immobilier pour étudiants en évaluant le profil financier, en scrapant automatiquement les annonces SeLoger pour calculer leur rentabilité, et utilise un modèle IA YOLOv8 entrainé pour ajuster l'estimation des travaux         | [Jules MORTREUX](https://github.com/julesmortreux)        | [BrickAI](https://github.com/julesmortreux/BrickAI)                                                                                |
 
 
 <!--
 Personne que je n'ai pas réussi à contacter / sans réponse :
   Alexis L ==> à relancer
-  Jules MORTREUX
   Youri
   Laziz
   Arakeri10

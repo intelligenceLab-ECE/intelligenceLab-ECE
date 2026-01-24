@@ -92,9 +92,9 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 
 <!--
 Personne que je n'ai pas réussi à contacter / sans réponse :
-  Alexis L ==> à relancer
+  Alexis L ==> à relancer / sujet de recherche stt
   Youri
-  Laziz
+  Laziz ==> Pas de piscine / avec Lexia
   Arakeri10
 -->
 

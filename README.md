@@ -88,11 +88,12 @@ Ce soutien intensif crée un environnement propice à l’entrepreneuriat, stimu
 | Trust RAG                   | RAG qui privilégie la fiabilité des sources plutôt que la similarité textuelle pour fournir des réponses financières vérifiées et explicables                   | [Ikram Jemlaoui](https://github.com/IkramJemlaoui)                                                   | [Trust RAG](https://github.com/IkramJemlaoui/trustRAG)                                                                                |
 | BrickAI                   |BrickAI analyse la faisabilité d'investissement immobilier pour étudiants en évaluant le profil financier, en scrapant automatiquement les annonces SeLoger pour calculer leur rentabilité, et utilise un modèle IA YOLOv8 entrainé pour ajuster l'estimation des travaux         | [Jules MORTREUX](https://github.com/julesmortreux)        | [BrickAI](https://github.com/julesmortreux/BrickAI)                                                                                |
 | Automation-RAG-2.0                   | RAG n8n automatisé qui ingère, scrolle et évalue la fiabilité des sources (PDF ou Web) pour fournir des réponses sourcées et pondérées par un score de confiance | [Alan LATEB](https://github.com/AlanECE)        | [Automation-RAG-2.0](https://github.com/AlanECE/Automation-RAG-2.0)                     |
+| STT evaluation                   | Travail de recherche et de tests autour des technologies de STT (speech-to-text). Optimisation de l'évaluation des modèles et des chargements de datasets | [Alexis LAINAULT](https://github.com/XIXIlait)        | [STT evaluation](https://github.com/XIXIlait/stt_evalution) |
+
 
 
 <!--
 Personne que je n'ai pas réussi à contacter / sans réponse :
-  Alexis L ==> à relancer / sujet de recherche stt
   Youri
   Laziz ==> Pas de piscine / avec Lexia
   Arakeri10
